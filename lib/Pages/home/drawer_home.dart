@@ -9,8 +9,8 @@ Drawer getHomeDrawer(BuildContext context) {
       decoration: BoxDecoration(
         color: Color(0xfff03a2e),
       ),
-      accountName: Text("Ruan Vasconcelos"),
-      accountEmail: Text("ruan@theotransportes.com.br"),
+      accountName: Text("A B"),
+      accountEmail: Text("teste@email.com"),
       currentAccountPicture: CircleAvatar(
           backgroundColor: Colors.white,
           child: Text("RV", style: TextStyle(fontSize: 40))),
